@@ -8,15 +8,11 @@ Welcome to the Dice App built with Flutter! This project is a simple yet fun dic
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
-- 🎲 Roll a dice with a tap of a button
-- 💫 Smooth animations for dice rolling
-- 🎨 Customizable dice faces
+- 🎲 Roll a dice with a tap of a button  
+- 💫 Smooth animations for dice rolling  
+- 🎨 Customizable dice faces  
 - 📱 Responsive design for different screen sizes
 
 ## Installation
