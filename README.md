@@ -12,7 +12,7 @@ Welcome to the Dice App built with Flutter! This project is a simple yet fun dic
 
 ## Features
 - 🎲 Roll a dice with a tap of a button  
-- 💫 Smooth animations for dice rolling  
+- 💫 No Animation , cause This is only for begaineer flutter dev practice project.
 - 🎨 Customizable dice faces  
 - 📱 Responsive design for different screen sizes
 
