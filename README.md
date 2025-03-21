@@ -8,7 +8,7 @@ Welcome to the Dice App built with Flutter! This project is a simple yet fun dic
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+
 
 ## Features
 - 🎲 Roll a dice with a tap of a button  
@@ -53,8 +53,3 @@ cd dice-app-flutter
 
 📩 **Contact:** xofikul@gmail.com
 ```
-
----
-
-
-Want me to export this now as a real `README.md` file and send it to you directly? Just say the word.
